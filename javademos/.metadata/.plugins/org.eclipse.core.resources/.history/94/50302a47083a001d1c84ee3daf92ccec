@@ -1,0 +1,15 @@
+package arkadaşSayılar;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int sayı1=220, sayı2=284, toplam1=0, toplam2=0;
+		
+		for(int i=0; i<sayı1; i++)
+		{
+			toplam1= sayı1 + i;
+		}
+
+	}
+
+}

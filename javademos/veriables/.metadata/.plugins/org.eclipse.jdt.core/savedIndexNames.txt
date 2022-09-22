@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\javademos\veriables\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2913256566.index
+2854906357.index
